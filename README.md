@@ -1,5 +1,10 @@
 # GenAI-11-Matplotlib-Core-Plot-Types-Visualization
 
+Install pandas and matplotlib using these command.
+pip install pandas.</br>
+pip install matplotlib.</br>
+
+**------TASKS------**</br>
 Task 1- Line plot (sales trend).</br>
 Task 2- scatter plot().</br>
 Task 3- Bar plot().</br>
