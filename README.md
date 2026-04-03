@@ -1,6 +1,6 @@
 # GenAI-11-Matplotlib-Core-Plot-Types-Visualization
 
-Install pandas and matplotlib using these command.
+Install pandas and matplotlib using these command.</br>
 pip install pandas.</br>
 pip install matplotlib.</br>
 
